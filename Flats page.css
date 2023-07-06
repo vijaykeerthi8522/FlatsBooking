@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bghomecontainer {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.cardhome {
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 50px;
+}
+
+.cardhomeheading {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    text-align: center;
+    padding: 15px;
+    color: #f19116;
+}
+
+.cardhomepara {
+    font-family: "Bree Serif";
+    font-size: 15px;
+    text-align: center;
+    color: #7b8794;
+}
+
+.button {
+    font-family: "Bree Serif";
+    font-size: 10px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #f19116;
+    border-width: 0px;
+    width: 100px;
+    margin: 5px;
+}
+
+.bgcolorflats {
+    background-color: #222222;
+    background-size: cover;
+    height: 100vh;
+}
+
+.flathead {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    color: #f19116;
+    padding: 20px;
+}
+
+.cardsection {
+    background-color: #ffffff;
+    height: 155px;
+    width: 400px;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.cardimage {
+    height: 125px;
+    width: 100px;
+}
+
+.cardheading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 20px;
+    text-align: left;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.cardpara {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 15px;
+    text-align: left;
+    margin: 10px;
+}
+
+.detailimage {
+    height: 150px;
+    width: 100vw;
+}
+
+.detailhead {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    color: #f19116;
+    padding-left: 15px;
+}
+
+.location {
+    font-family: "Bree Serif";
+    font-size: 15px;
+    color: #ffffff;
+    padding-left: 15px;
+}
+
+.limage {
+    height: 30px;
+}
+
+.linecolor {
+    color: #ffffff;
+}
